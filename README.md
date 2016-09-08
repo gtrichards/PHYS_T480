@@ -3,10 +3,15 @@
 This is the repository for PHYS T480/580 "Big Data Physics: Methods of Machine Learning" at Drexel University, taught by Prof. Gordon Richards.
 
 The course is a series of jupyter notebooks, where I have drawn heavily from resources from
+
 Zeljko Ivezic (University of Washington) -- the lead author of the textbook that we use (http://press.princeton.edu/titles/10159.html)
+
 Andy Connolly (University of Washington), particularly http://cadence.lsst.org/introAstroML/
+
 Karen Leighly (University of Oklahoma), particularly http://http://seminar.ouml.org/
+
 Adam Miller (Northwestern University), https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/
+
 Jo Bovy (University of Toronto), http://astro.utoronto.ca/~bovy/teaching.html
 
 My thanks also to Maher Harb (Drexel University) and Kevin Footer (Deloitte).
