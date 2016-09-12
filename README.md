@@ -4,6 +4,9 @@ This is the repository for PHYS T480/580 "Big Data Physics: Methods of Machine L
 
 The course is a series of jupyter notebooks, where I have drawn heavily from resources from
 
+Jake Vanderplas (University of Washington) -- one of the primary code developers of scikit-learn and astroML.  I draw a lot from https://github.com/jakevdp/ESAC-stats-2014, but you can find a lot more from him too: https://github.com/jakevdp/.
+
+
 Zeljko Ivezic (University of Washington) -- the lead author of the textbook that we use (http://press.princeton.edu/titles/10159.html)
 
 Andy Connolly (University of Washington), particularly http://cadence.lsst.org/introAstroML/
