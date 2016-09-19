@@ -20,3 +20,9 @@ My thanks also to Maher Harb (Drexel University) and Kevin Footer (Deloitte).
 
 I have tried to be careful about properly attributing anything drawn from these resources, but if it isn't clear where something comes from, it is probably there.
 Others are welcome to draw from here for their own Machine Learning courses.  Please send any corrections to gtr@physics.drexel.edu.
+
+## Schedule
+
+Lecture 1 (9/20): Motivation.ipynb and InitialSetup.ipynb
+
+Lecture 2 (9/22): HistogramExample.ipynb
