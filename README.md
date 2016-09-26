@@ -26,3 +26,5 @@ Others are welcome to draw from here for their own Machine Learning courses.  Pl
 Lecture 1 (9/20): Motivation.ipynb and InitialSetup.ipynb
 
 Lecture 2 (9/22): HistogramExample.ipynb
+
+Lecture 2 (9/27): BasicStats.ipynb
