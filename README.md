@@ -27,4 +27,6 @@ Lecture 1 (9/20): Motivation.ipynb and InitialSetup.ipynb
 
 Lecture 2 (9/22): HistogramExample.ipynb
 
-Lecture 2 (9/27): BasicStats.ipynb
+Lecture 3 (9/27): BasicStats.ipynb
+
+Lecture 4 (9/29): BasicStats2.ipynb
