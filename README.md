@@ -16,6 +16,8 @@ Adam Miller (Northwestern University), particularly https://github.com/LSSTC-DSF
 
 Jo Bovy (University of Toronto), particularly http://astro.utoronto.ca/~bovy/teaching.html
 
+Thomas Wiecki, particularly http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
+
 My thanks also to Maher Harb (Drexel University) and Kevin Footer (Deloitte).
 
 I have tried to be careful about properly attributing anything drawn from these resources, but if it isn't clear where something comes from, it is probably there.
@@ -32,3 +34,5 @@ Lecture 3 (9/27): BasicStats.ipynb
 Lecture 4 (9/29): BasicStats2.ipynb
 
 Lecture 5 (10/4): Inference.ipynb
+
+Lecture 6 (10/6): Inference2.ipynb
