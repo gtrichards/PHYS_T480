@@ -40,3 +40,8 @@ Lecture 6 (10/6): Inference2.ipynb
 Lecture 7 (10/11): Scikit-Learn-Intro.ipynb
 
 Lecture 8 (10/13): Ditto
+
+Lecture 9 (10/18): KernelDensityEstimation.ipynb
+	  	   NearestNeighbors.ipynb
+
+Lecture 10 (10/20):
