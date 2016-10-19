@@ -41,6 +41,6 @@ Lecture 7 (10/11): Scikit-Learn-Intro.ipynb
 
 Lecture 8 (10/13): Ditto
 
-Lecture 9 (10/18): KernelDensityEstimation.ipynb and NearestNeighbors.ipynb
+Lecture 9 (10/18): KernelDensityEstimation.ipynb and NearestNeighbor.ipynb
 
 Lecture 10 (10/20): MixtureModel.ipynb and Clustering.ipynb
