@@ -18,7 +18,7 @@ Jo Bovy (University of Toronto), particularly http://astro.utoronto.ca/~bovy/tea
 
 Thomas Wiecki, particularly http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
 
-My thanks also to Maher Harb (Drexel University) and Kevin Footer (Deloitte).
+My thanks also to Maher Harb (Drexel University), Liam Coatman (Cambridge), Nathalie Thibert (UWO), and Kevin Footer (Deloitte).
 
 I have tried to be careful about properly attributing anything drawn from these resources, but if it isn't clear where something comes from, it is probably there.
 Others are welcome to draw from here for their own Machine Learning courses.  Please send any corrections to gtr@physics.drexel.edu.
@@ -41,7 +41,6 @@ Lecture 7 (10/11): Scikit-Learn-Intro.ipynb
 
 Lecture 8 (10/13): Ditto
 
-Lecture 9 (10/18): KernelDensityEstimation.ipynb
-	  	   NearestNeighbors.ipynb
+Lecture 9 (10/18): KernelDensityEstimation.ipynb and NearestNeighbors.ipynb
 
-Lecture 10 (10/20):
+Lecture 10 (10/20): MixtureModel.ipynb and Clustering.ipynb
