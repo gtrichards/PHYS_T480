@@ -1,0 +1,35 @@
+I concatenated 4 properties of a short peptide (10 amino acids long)
+as it jiggles in time in a molecular dynamics simulation. I am
+attaching the table.
+
+The columns are:
+
+1 - time,
+
+2 - distance between carbon atoms (c-alpha) from amino acids 4 and 8,
+
+3 - the dot product (alignment) of amino acids 4 and 8 (the alignment
+is 1 if both residues point outward of the backbone and are parallel),
+
+4 - radius of gyration
+
+5 - rmsd of the current conformation relative to the initial
+conformation. A higher value indicates that the conformation is "far"
+from the initial one.
+
+The peptide does not form any special conformations in this run, but
+it seems to linger in some parts of phase space. I can look for
+another run where the peptide actually forms something interesting
+(like a beta hairpin).
+
+
+There are two primary properties that one would like: the number of
+"typical" conformations (via a clustering algorithm) and the typical
+transition time from cluster to cluster.
+
+Because these data are from a protein, the time that the protein
+lingers in a given state tells about the possible reaction dynamics,
+or at least what are the most likely states it could be found that
+could "react" with other proteins. The longer a protein spends in a
+given cluster, the more important that cluster is to the reactivity of
+that protein.
