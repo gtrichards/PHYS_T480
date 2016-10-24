@@ -44,3 +44,8 @@ Lecture 8 (10/13): Ditto
 Lecture 9 (10/18): KernelDensityEstimation.ipynb and NearestNeighbor.ipynb
 
 Lecture 10 (10/20): MixtureModel.ipynb and Clustering.ipynb
+
+Lecture 11 (10/25): DimensionReduction.ipynb
+
+Lecture 12 (10/27): NonlinearDimensionReduction.ipynb
+
