@@ -49,3 +49,7 @@ Lecture 11 (10/25): DimensionReduction.ipynb
 
 Lecture 12 (10/27): NonlinearDimensionReduction.ipynb
 
+Lecture 13 (11/1): Regression.ipynb
+
+Lecture 14 (11/3): Regression2.ipynb
+
