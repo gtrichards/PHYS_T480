@@ -55,3 +55,5 @@ Lecture 14 (11/3): Regression2.ipynb
 
 Lecture 15 (11/8): Classification.ipynb
 
+Lecture 16 (11/10): Classification2.ipynb
+
