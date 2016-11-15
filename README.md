@@ -57,3 +57,12 @@ Lecture 15 (11/8): Classification.ipynb
 
 Lecture 16 (11/10): Classification2.ipynb
 
+Lecture 17 (11/15): TimeSeries.ipynb
+
+Lecture 18 (11/17): TimeSeries2.ipynb
+
+Lecture 19 (11/22): Project Presentations
+
+Lecture 20 (11/29): Project Presentations
+
+Lecture 21 (12/1): Project Presentations
