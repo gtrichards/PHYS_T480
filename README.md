@@ -23,6 +23,8 @@ My thanks also to Maher Harb (Drexel University), Liam Coatman (Cambridge), Nath
 I have tried to be careful about properly attributing anything drawn from these resources, but if it isn't clear where something comes from, it is probably there.
 Others are welcome to draw from here for their own Machine Learning courses.  Please send any corrections to gtr@physics.drexel.edu.
 
+If you have any interest in using these materials for your own Machine Learning course, please e-mail me and I'll send you my post lecture notes about what worked, what didn't, what took too long, what didn't take long enough -- basically what I would change for next time.
+
 ## Schedule
 
 Lecture 1 (9/20): Motivation.ipynb and InitialSetup.ipynb
@@ -59,7 +61,7 @@ Lecture 16 (11/10): Classification2.ipynb
 
 Lecture 17 (11/15): TimeSeries.ipynb
 
-Lecture 18 (11/17): TimeSeries2.ipynb
+Lecture 18 (11/17): TimeSeries2.ipynb and NeuralNetworks.ipynb
 
 Lecture 19 (11/22): Project Presentations
 
