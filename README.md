@@ -2,6 +2,8 @@
 
 This is the repository for PHYS T480/580 "Big Data Physics: Methods of Machine Learning" at Drexel University, taught by Prof. Gordon Richards.  The course syllabus can be found at http://www.physics.drexel.edu/~gtr/teaching/physT480/
 
+**This is an archived class from Fall 2016.  The repository for the current class (Fall 2018) is https://github.com/gtrichards/PHYS_T480_F18/ .
+
 The course is a series of jupyter notebooks, where I have drawn heavily from resources from the following people/places:
 
 Jake Vanderplas (University of Washington) -- one of the primary code developers of scikit-learn and astroML.  I draw a lot from https://github.com/jakevdp/ESAC-stats-2014, but you can find a lot more from him too: https://github.com/jakevdp/.
